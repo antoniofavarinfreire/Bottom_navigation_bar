@@ -5,5 +5,5 @@ Templete com um pequen esboço de navigation bar, par app, IOS e Android.
 
 # Imagem 
 <p float="center">
-    <img src="lib/assets/image.png", width="100">
+    <img src="lib/assets/image.png", width="250">
 </p>
